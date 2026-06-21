@@ -105,6 +105,3 @@ Todo el código utilizado para generar las figuras, tablas y resultados presenta
 ## Contacto
 
 **Valentina Caldiroli**
-
-Licenciatura en Estadística
-Universidad de la República (Uruguay)
