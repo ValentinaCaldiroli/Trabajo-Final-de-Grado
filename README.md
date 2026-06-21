@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="logoFCEA_UdelaR_Mpantalla.png" width="900">
+</p>
 
 # Detección de comunidades para inferir relaciones funcionales entre genes a partir de perfiles temporales de expresión en *Drosophila melanogaster*
 
